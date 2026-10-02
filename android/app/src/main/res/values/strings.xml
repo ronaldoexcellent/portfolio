@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Rex Portfolio</string>
+    <string name="title_activity_main">Rex Portfolio</string>
+    <string name="package_name">com.rex.portfolio</string>
+    <string name="custom_url_scheme">com.rex.portfolio</string>
+</resources>
